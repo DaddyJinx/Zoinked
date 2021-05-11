@@ -1,0 +1,2 @@
+# Zoinked
+A discord selfbot

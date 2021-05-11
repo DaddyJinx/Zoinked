@@ -1,5 +1,12 @@
 # Zoinked
 A discord selfbot with a few commands
+# How to use 
+1. pip install -r requirements.txt
+2. 
+3. Add discord token to config.json
+4. 
+5. Run bot
+
 # General commands
 Info
 Clear

@@ -25,7 +25,7 @@ Deleteroles
 Deletechannels
 Banall
 # IMPORTANT
-Im not responsible for what you do
+Im not responsible for what you do with this
 
 THIS IS A WORK IN PROGRESS
 # Todo
